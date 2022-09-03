@@ -1,5 +1,5 @@
 const appInitial = async(req,res,next)=>{
-    res.json("This is the API endpoint for Gudo app");
+    res.json("This is the info endpoint for Gudo app");
 };
 
 const appDescription = async(req,res,next)=>{
